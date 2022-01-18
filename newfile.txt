@@ -1,0 +1,6 @@
+The git merge command lets you take the independent lines of development
+created by git branch and integrate them into a single branch.
+
+git cherry-pick is a powerful command that enables arbitrary Git commits to be picked
+by reference and appended to the current working HEAD.
+Cherry picking is the act of picking a commit from a branch and applying it to another.
