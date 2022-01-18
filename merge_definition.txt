@@ -1,1 +1,2 @@
-This commit will create another branch(gitflow-workflow)
+When you unite 2 commit, branch
+
