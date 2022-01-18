@@ -1,3 +1,3 @@
 print("szija")
 
-print("halo")
+print("hal")
