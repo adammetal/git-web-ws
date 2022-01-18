@@ -1,1 +1,2 @@
-szeplaki
+The git merge command lets you take the independent lines of development
+created by git branch and integrate them into a single branch.
