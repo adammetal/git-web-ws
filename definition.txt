@@ -1,3 +1,5 @@
 Merge: Merging is Git's way of putting a forked history back together again.
 The git merge command lets you take the independent lines of development created by git branch
 and integrate them into a single branch.
+
+Cherry-pick: Cherry picking is the act of picking a commit from a branch and applying it to another.
