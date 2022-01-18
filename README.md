@@ -1,2 +1,1 @@
-# git-web-ws
-lol
+kitöröltem kek
